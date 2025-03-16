@@ -1,0 +1,5 @@
+cat > file.txt: This is for adding(might replace existing content)
+
+cat >> file.text: This is for updating
+
+
